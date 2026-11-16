@@ -1,4 +1,12 @@
- # CapÉcole
+# CapÉcole
+
+### Simplifying School Management Across Africa.
+
+🌐 **Official Website:** [Visit CapÉcole](https://capécole.com)
+
+🏢 **Developed by:** [MaYiKa Group](https://www.mayikagroup.dev/)
+
+[English](#english) | [Français](#français) # CapÉcole
 
 ### Simplifying School Management Across Africa.
 
